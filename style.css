@@ -17,4 +17,8 @@ h1 {
 
     background-color: lightsteelblue;
     margin: 120px auto;
+
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
 }
